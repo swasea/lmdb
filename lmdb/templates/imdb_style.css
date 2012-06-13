@@ -1,0 +1,83 @@
+
+
+body {
+	background-color:LightGoldenRodYellow;
+
+}
+
+body.navigator {
+	background-color:Khaki;
+}
+
+
+h1, h2 {
+	font-family:Sans; 
+	color:darkblue;
+	padding:2pt; 
+	margin:2pt;
+}
+
+h2 {
+	padding-left:10pt; 
+}
+
+img {
+     	padding:0.5cm; 
+	float:left;
+}
+
+div.short_entry {
+	border-top-style:solid;
+	border-top-width:thin;	
+	clear:both;
+}
+
+
+
+div.title{
+	padding-top:0.5cm; 	
+	font-family:Sans; 
+		font-size:18pt;
+     	font-weight:normal; 
+	color:darkblue; 
+}
+
+div.year_link{ 	
+	padding-left:30pt; 
+	font-family:Sans; 
+	font-size:10pt;
+}
+
+
+div.genre_link{ 	
+	padding-left:30pt; 
+	font-family:Sans; 
+	font-size:12pt;
+}
+
+
+div.genre, div.rating, div.director, div.files, div.votes, div.id{ 	
+     	padding-top:5pt; 
+	font-family:Sans; 
+	font-size:12pt;
+}
+
+div.media_id {
+	font-size:12pt;
+   	padding-bottom:7pt; 
+
+ 	color:darkblue;
+}
+
+div.files{
+	font-family:Fixed; 
+	font-size:10pt;
+   	padding:7pt; 
+	margin-left:5cm;
+	width:12cm;
+	float:right;
+	border-style:solid;
+	border-color:grey;
+	border-width:1px;
+	background-color:Khaki;
+}
